@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: 毎日の「帰ります」を気軽に管理 # Optional
+marketing_desc: おうちハブは、あなたの日常生活を助け、毎日の「帰ります」を簡単に管理します。帰りの連絡を毎日忘れてしまう旦那様、ご飯がいるかどうかを毎回報告してほしい奥様など家族同士や友人同士でご利用いただけます。家族や友人とのコミュニケーションを強化し、毎日のルーチンを簡単にします。
 
 #
 # Social Links
