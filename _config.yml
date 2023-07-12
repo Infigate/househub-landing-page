@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: おうちハブ:株式会社Infigate# Optional - Enter your site title
+description: おうちハブは株式会社Infigateが運用するご家族同士の「帰ります」を気軽に管理するライフスタイルアプリです。 # Optional - Enter your site description
 
 #
 # Google Analytics
